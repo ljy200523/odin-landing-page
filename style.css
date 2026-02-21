@@ -1,0 +1,47 @@
+body {
+    font-family: Roboto;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
+}
+
+.left-header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.right-header {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+button {
+    color: #3882F6
+}
+
+.two-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
+
+.three p {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.blue-box {
+    background-color: #3882F6;
+}
