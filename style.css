@@ -128,12 +128,11 @@ button {
 
 .three {
     background-color: #E5E7EB;
-    width: 55%;
-    background-size: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-self: center;
+    padding: 60px 340px;
 }
 
 .three-text {
